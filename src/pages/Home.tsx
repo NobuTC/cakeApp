@@ -8,7 +8,6 @@ import {
   IonContent,
   IonHeader,
   IonItem,
-  IonMenu,
   IonMenuButton,
   IonPage,
   IonTitle,
